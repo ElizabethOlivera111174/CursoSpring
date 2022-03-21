@@ -1,0 +1,3 @@
+com\springboot\app\usuarios\commons\SpringbootServicioUsuriosApplication.class
+com\springboot\app\usuarios\commons\models\Entity\Role.class
+com\springboot\app\usuarios\commons\models\Entity\Usuario.class
